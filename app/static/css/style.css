@@ -1,0 +1,17 @@
+/* Estilos personalizados */
+body {
+    padding-top: 4.5rem;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.alert {
+    margin-top: 20px;
+}
